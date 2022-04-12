@@ -1,0 +1,13 @@
+./audioTest.py
+./speak.py
+./speech.py
+
+
+
+
+
+
+cd ..
+cd jetson-voices
+docker/run.sh
+examples/asr.py --mic 11

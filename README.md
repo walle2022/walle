@@ -1,5 +1,5 @@
 # `` WALL-E: Interactive Desk Bot ``
-``By: Divya Shah, Greg Alperi, Josh Elliot, and Lianna Joseph``
+``By: Divya Shah, Greg Alperi, Josh Elliott, and Lianna Joseph``
 
 ![WALL-E Banner](https://user-images.githubusercontent.com/103517268/166597788-c53ce0e7-f34d-4c96-a28b-76935f9a9164.png)
   
@@ -17,6 +17,9 @@
 5.  [``  Volume Control``](Software/volumeControlTesting.py)
 6.  [``  Speech Recognition & Voice``](Software/speechRecognitionTesting.py)
 7.  [``  Search``](Software/search.py)
+8.  [``  Dance``](Software/dance.py)
+9.  [``  Oled``](Software/oled.py)
+10.  [`` Face Recognition``](Software/Face_Recognition)
 
 ## ``Youtube``
 [``Click Here``](https://www.youtube.com/channel/UCH942D3T0ffBOP28Sz-2NKw/featured)
